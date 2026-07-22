@@ -1,4 +1,4 @@
-# vesa-adapter-pi-touch-dusplay-10
+# vesa-adapter-pi-touch-display-10
 Adapter for 100x100 VESA mount for the Raspberry Pi Touch 2 - 10" Portrait
 
 It works better with 4x 35mm M2.5 screws to connect to the display. It needs to be modified to be used with shorter screws that come with the display.
